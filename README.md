@@ -4,7 +4,7 @@ Hello World!
 📧 abdullahh10@outlook.com<br>
 📧 abdullahhassan@iut-dhaka.edu<br>
 🕊️ @kuroneko9800<br>
-🎓 CSE at Islamic University of Technology (IUT)
+🎓 CSE at Islamic University of Technology (IUT)<br>
 🌐 techytreats.com
 
 <h1>Skills</h1>
