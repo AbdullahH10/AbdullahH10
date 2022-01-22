@@ -9,18 +9,18 @@ Hello World!
 
 <h1>Skills</h1>
 <ul>
-  <li>Programming: <i>javascipt, python, java, c++</i></li>
-  <li>Database: <i>mysql</i></li>
-  <li>Web Technology: <i>angular</i></li>
-  <li>Graphics Design: <i>inkscape</i></li>
+  <li>Programming: <i>Typescript, Java, Python</i></li>
+  <li>Database: <i>Postgresql, Mongodb</i></li>
+  <li>Web Technology: <i>Angular, NestJS</i></li>
+  <li>Graphics Design: <i>Inkscape</i></li>
   <li>Writing</li>
  </ul>
  
  <h1>Current Plans</h1>
- <p>Becoming a progressive software engineer particularly building web applications. I want to contribute to opensource projects in near future.</p>
+ <p>Building upon the web developement skills. Working on an original project right now. Facing challenges in cookie management and ORM for mongodb.</p>
  
  <h1>Hobbies</h1>
- When not in study or working I play video games or maybe watch some anime. I like detective and intriguing stories.
+ When not in study or working I play video games or watch some anime. I like detective and intriguing stories.
 
 
 <!---
