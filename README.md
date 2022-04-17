@@ -17,10 +17,10 @@ Hello World!
  </ul>
  
  <h1>Current Plans</h1>
- <p>Building upon the web developement skills. Working on an original project right now. Facing challenges in cookie management and ORM for mongodb.</p>
+ <p>Completed the blankpage project. Next step is to prepare for technical interviews as I am looking for jobs right now. I am planning to brush up my algorithm and datastructure knowledge. A new repository with implementations of common algorithms will be created soon.</p>
  
  <h1>Hobbies</h1>
- When not in study or working I play video games or watch some anime. I like detective and intriguing stories.
+ <p>I play video games or watch some anime. I like detective and intriguing stories.</p>
 
 
 <!---
