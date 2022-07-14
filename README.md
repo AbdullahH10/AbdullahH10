@@ -9,7 +9,7 @@ Hello World!
 
 <h1>Skills</h1>
 <ul>
-  <li>Programming: <i>Typescript, Java, Python</i></li>
+  <li>Programming: <i>Java, Typescript, Python</i></li>
   <li>Database: <i>Postgresql, Mongodb</i></li>
   <li>Web Technology: <i>Angular, NestJS</i></li>
   <li>Graphics Design: <i>Inkscape</i></li>
