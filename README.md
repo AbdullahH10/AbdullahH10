@@ -1,7 +1,7 @@
 Hello World!
 
-<font size="5">**Abdullah Hassan**</font><br/>
-<font size="3">*Software Engineer*</font>
+**Abdullah Hassan**<br/>
+*Software Engineer*
 
 🏠 337/1 TV Road, East Rampura, Dhaka<br/>
 📧 abdullahh10@outlook.com<br/>
@@ -36,7 +36,7 @@ Software Engineer with almost 1 year of experience in Angular, Java, Springboot,
 **Others:** Graphics Design, Content Writing<br/>
 
 # **Experience**
-## Dohatec New Media
+### Dohatec New Media
 ### *Software Engineer* 
 #### August 2022 - Present // Dhaka, Bangladesh
 > - Actively participated in the research and development of software applications for digital signature.
@@ -44,7 +44,7 @@ Software Engineer with almost 1 year of experience in Angular, Java, Springboot,
 > - Successfully delivered a desktop application for easy document signing workflow.
 
 # **Education**
-## Islamic University of Technology
+### Islamic University of Technology
 ### *B.Sc. in Computer Science and Engineering*
 #### January 2018 - May 2022 // Gazipur, Bangladesh 
 > - Achieved first class with a CGPA of 3.27 out of 4.00.
