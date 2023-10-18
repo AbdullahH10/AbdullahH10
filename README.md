@@ -27,21 +27,29 @@ Hello World!
 ```
 
 # **About me**
-Software Engineer with almost 1 year of experience in Angular, Java, Springboot, Cryptography, and Digital Signature. Proven ability to troubleshoot and debug software problems. Strong technical skills and resourcefulness with a passion for developing new solutions. Experienced in developing software for web applications.
+Software engineer with sound technical skills and resourcefulness. Codes
+in Java and Angular. Proven ability to squash software bugs. Passionate
+for developing new solutions.
 
 # **Skills**
-**Programming:** Java, Typescript, Javascript, Python<br/>
-**Web Technology:** Angular, NestJS, NodeJS, Springboot<br/>
-**Database:** MySQL, MongoDB, MSSQL Server<br/>
+**Programming:** Java, Typescript, Javascript<br/>
+**Web Technology:** Angular, Springboot<br/>
+**Database:** Postgresql, Mysql, Mongodb<br/>
 **Others:** Graphics Design, Content Writing<br/>
 
 # **Experience**
 ### Dohatec New Media
 ### *Software Engineer* 
 #### August 2022 - Present // Dhaka, Bangladesh
-> - Actively participated in the research and development of software applications for digital signature.
-> - Developed a web based solution for signing XML data payload.
-> - Successfully delivered a desktop application for easy document signing workflow.
+> - Actively participated in the research and development of PKI
+enablement solutions.
+> - Successfully upgraded desktop application for signing pdf and
+image documents which greatly improved processing time and
+overall user experience.
+> - Played a key role in the design and development of eKYC
+solution.
+> - Developed an API solution for signing XML data.
+> - Developed NID service that consumes SOAP API.
 
 # **Education**
 ### Islamic University of Technology
