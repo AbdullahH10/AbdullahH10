@@ -9,7 +9,7 @@ Hello World!
 📱 880 1641161703
 
 ```java
-  public class SocialMedia {
+  public class OnlinePresence {
     
     public static String getLinkedIn() {
       return "https://www.linkedin.com/in/abdullahh10/";
