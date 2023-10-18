@@ -38,9 +38,9 @@ for developing new solutions.
 **Others:** Graphics Design, Content Writing<br/>
 
 # **Experience**
-### Dohatec New Media
-### *Software Engineer* 
-#### August 2022 - Present // Dhaka, Bangladesh
+**Dohatec New Media**<br/>
+*Software Engineer*<br/>
+August 2022 - Present // Dhaka, Bangladesh<br/>
 > - Actively participated in the research and development of PKI
 enablement solutions.
 > - Successfully upgraded desktop application for signing pdf and
@@ -52,9 +52,9 @@ solution.
 > - Developed NID service that consumes SOAP API.
 
 # **Education**
-### Islamic University of Technology
-### *B.Sc. in Computer Science and Engineering*
-#### January 2018 - May 2022 // Gazipur, Bangladesh 
+**Islamic University of Technology**<br/>
+*B.Sc. in Computer Science and Engineering*<br/>
+January 2018 - May 2022 // Gazipur, Bangladesh<br/> 
 > - Achieved first class with a CGPA of 3.27 out of 4.00.
 > - Taken optional courses on web development and cryptography.
 > - Successfully completed thesis on machine learning application for enabling autonomous driving.
