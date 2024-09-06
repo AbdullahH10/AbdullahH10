@@ -20,7 +20,7 @@ Hello World!
     }
 
     public static String getWebsite() {
-      return "https://techytreats.com/";
+      return "https://abdullahhassan.dev/";
     }
 
   }
