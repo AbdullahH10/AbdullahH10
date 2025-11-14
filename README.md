@@ -28,33 +28,43 @@ Hello World!
 
 # **About me**
 Software engineer with sound technical skills and resourcefulness. Codes
-in Java and Angular. Proven ability to squash software bugs. Passionate
-for developing new solutions.
+in Java. Proven ability to squash software bugs. Passionate
+about solving technical problems.
 
 # **Skills**
 **Programming:** Java, Typescript, Javascript<br/>
 **Web Technology:** Angular, Springboot<br/>
-**Database:** Postgresql, Mysql, Mongodb<br/>
+**Database:** Postgresql, Mysql, Mongodb, MS SQL Server<br/>
 **Others:** Graphics Design, Content Writing<br/>
 
 # **Experience**
 **Dohatec New Media**<br/>
 *Software Engineer*<br/>
 August 2022 - Present // Dhaka, Bangladesh<br/>
-> - Actively participated in the research and development of PKI
-enablement solutions.
-> - Successfully upgraded desktop application for signing pdf and
-image documents which greatly improved processing time and
-overall user experience.
-> - Played a key role in the design and development of eKYC
-solution.
-> - Developed an API solution for signing XML data.
-> - Developed NID service that consumes SOAP API.
+
+#### Project: Dohatec e-Sign
+
+> - Designed the core architecture of the solution
+> - Designed database schema
+> - Developed 4 microservices
+> - Administered server environment for deployment and monitoring
+> - Streamlined user on-boarding by replacing manual forms with online e-KYC
+> - Effectively reduced Certificate Issuance and Signing time from few days to a few minutes
+> - Significantly reduced cost by 80% through opting for a fully in-house developed solution
+
+#### Project: Dohatec Digital Signature Tool 2
+
+> - Developed a quick-and-easy solution for signing PDF documents
+> - Improved user experience through a new modern user interface
+> - Added a preview option for files before and after signing
+> - Developed additional features such as Merge PDF and Image to PDF
+> - Optimized for signing with Gemalto Crypto USB Dongle
 
 # **Education**
 **Islamic University of Technology**<br/>
 *B.Sc. in Computer Science and Engineering*<br/>
-January 2018 - May 2022 // Gazipur, Bangladesh<br/> 
+January 2018 - May 2022 // Gazipur, Bangladesh<br/>
+
 > - Achieved first class with a CGPA of 3.27 out of 4.00.
 > - Taken optional courses on web development and cryptography.
 > - Successfully completed thesis on machine learning application for enabling autonomous driving.
